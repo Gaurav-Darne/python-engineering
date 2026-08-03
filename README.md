@@ -1,46 +1,62 @@
-# python-engineering
+# 🐍 Python Engineering
 
-Python projects focused on mechanical engineering calculations, automation and data analysis.
+A collection of Python projects, automation tools, and engineering calculators developed to solve real-world mechanical engineering problems.
 
-\# Python Engineering
+Rather than learning programming for software development, this repository focuses on using Python as an engineering tool.
 
+---
 
+## 🎯 Objectives
 
-This repository contains Python projects related to mechanical engineering.
+- Learn Python fundamentals
+- Automate repetitive engineering calculations
+- Analyze engineering data
+- Develop reusable engineering tools
+- Improve engineering productivity
 
+---
 
+## 📂 Planned Projects
 
-\## Goals
+### Engineering Calculators
 
+- [ ] Horsepower ↔ Torque Calculator
+- [ ] Shaft Design Calculator
+- [ ] Bearing Life Calculator
+- [ ] Gear Ratio Calculator
+- [ ] Spring Design Calculator
+- [ ] Bolt Design Calculator
+- [ ] Beam Deflection Calculator
 
+### Data Analysis
 
-\- Learn Python fundamentals
+- [ ] Experimental Data Plotter
+- [ ] Stress-Strain Curve Analysis
+- [ ] Sensor Data Visualization
 
-\- Build engineering calculators
+### Automation
 
-\- Automate repetitive engineering tasks
+- [ ] BOM Generator
+- [ ] File Renamer
+- [ ] PDF Report Generator
 
-\- Analyze engineering data
+---
 
+## 📚 Technologies
 
+- Python
+- NumPy
+- Pandas
+- Matplotlib
+- SciPy
+- OpenPyXL
 
-\## Projects
+---
 
+## 🎯 Long-Term Goal
 
+Develop a collection of engineering tools that improve design, analysis, and documentation workflows.
 
-\- \[ ] Horsepower to Torque Calculator
-
-\- \[ ] Shaft Design Calculator
-
-\- \[ ] Bearing Life Calculator
-
-\- \[ ] Gear Ratio Calculator
-
-
-
-\---
-
-
+---
 
 Author: Gaurav Darne
-
