@@ -13,4 +13,4 @@ print()
 print("======================================================")
 print("Horsepower = {:.2f} HP". format(horsepower))
 print("======================================================")
-
+print("Horsepower ↔ Torque Calculator v1.1")
